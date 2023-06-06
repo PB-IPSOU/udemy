@@ -21,8 +21,8 @@ import plotly.express as px
 import numpy as np
 from PIL import Image
 
-PATH_MEDIA = "initial_version/project/"
-PATH_DATA = "initial_version/project/"
+PATH_MEDIA = ""
+PATH_DATA = ""
 DESCRIPTIF_SCREENER = """
     Dans le tableau ci-dessous, vous trouverez la plupart des entreprises du S&P500 (indice boursier des 500 plus grandes entreprises américaines) avec certains critères tels que :
 
